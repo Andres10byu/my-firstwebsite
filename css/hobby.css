@@ -1,0 +1,33 @@
+.main {
+    text-align: center;
+}
+
+body{
+    background-color:rgb(238, 53, 53);
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color:white;
+    margin:0;
+    padding: 20px;
+
+}
+
+.players {
+    color: white;
+    background-color:rgb(115, 115, 231);
+    padding: 20px;
+
+}
+.team {
+
+    text-align: center;
+     color: whitesmoke;
+     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+     font-size: medium;
+}
+a {
+    color: white;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
